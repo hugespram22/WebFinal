@@ -1,0 +1,233 @@
+* {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+}
+
+body {
+    margin: 0;
+    background-color: #efefef;
+}
+
+body header {
+    padding: 15px 30px;
+    background-color: #fff;
+    /* box-shadow: 3px 0px 5px #aaa; */
+}
+
+.banner {
+    max-width: none;
+    height: 60px;
+}
+
+#textbanner {
+    color: black;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+}
+
+.nav_bar {
+    max-width: none;
+    background-color: lightcoral;
+    height: 40px;
+    padding: 15px 30px;
+    box-shadow: 3px 0px 5px #aaa;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.nav_bar .nav_bar_h1 {
+    display: inline;
+    color: #fff;
+}
+
+.nav_bar a {
+    text-decoration: none;
+    padding: 0px 150px;
+}
+
+.historia {
+    position: relative;
+    display: flex;
+    max-width: none;
+    background-color: #fff;
+    margin: 20px 50px;
+    height: 600px;
+    border-radius: 10px;
+    justify-content: center;
+}
+
+.historia_titulo {
+    display: inline;
+    position: relative;
+    top: 20px;
+    left: 410px;
+}
+
+.bloque1 {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.texto_historia {
+    width: 500px;
+    margin-left: 0px;
+}
+
+.texto_historia p {
+    width: 500px;
+}
+
+.img-historia {
+    padding-left: 60px;
+    margin-top: 50px;
+}
+
+hr {
+    max-width: 1000px;
+}
+
+.plantilla {
+    position: relative;
+    max-width: none;
+    background-color: #fff;
+    margin: 20px 50px;
+    border-radius: 10px;
+}
+
+.plantilla-titulo {
+    padding-top: 40px;
+    text-align: center;
+}
+
+.jugadores-titulo {
+    display: block;
+}
+
+.contenido {
+    display: flex;
+    flex-direction: row;
+}
+
+.espacio-jugador {
+    display: inline;
+    width: 40px;
+}
+
+.imagen-jugador {
+    width: 190px;
+    height: 200px;
+    border: #efefef solid 1px;
+}
+
+.jugador {
+    display: flex;
+    flex-direction: column;
+}
+
+.espacio {
+    display: inline;
+    width: 15px;
+}
+
+.descripcion {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: #efefef solid 1px;
+}
+
+.linea2 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.division1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.estadio {
+    background-color: #efefef;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    text-align: center;
+}
+
+.ubicacion {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.ubihr {
+    width: 200px;
+}
+
+.mail {
+    text-decoration: none;
+    color: #FF4646;
+}
+
+.ubi {
+    height: 700;
+}
+
+.descripcion2 {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 202px;
+}
+
+.numero {
+    display: inline;
+}
+
+.imagen-copa {
+    width: 190px;
+    height: 200px;
+}
+
+.numero {
+    text-align: center;
+}
+
+.copas {
+    display: inline;
+    flex-direction: column;
+}
+
+.nombre-copa {
+    border-top: #DCDCDC solid 1px;
+    padding-top: 35px;
+}
+
+.content {
+    padding-top: 40px;
+}
+
+.palmares {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.espacio-final {
+    height: 30px;
+}
+
+.nombre {
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.espacio-ubicacion {
+    display: inline;
+    width: 250px;
+}
